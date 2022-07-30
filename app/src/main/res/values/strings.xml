@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndTunnel</string>
+    <string name="btn_start">开始启动</string>
+    <string name="btn_started">正在运行</string>
+    <string name="run_aborted">用户取消或发生异常，运行失败！</string>
+    <string name="run_started">程序启动完成，再次点击按钮可关闭运行！</string>
+</resources>
